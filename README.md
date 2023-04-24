@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Kini99/Kini99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![601014116770475 6068beff4640a](https://user-images.githubusercontent.com/118278010/232540041-6e79a69d-80b2-40a5-b878-e4abcbb12f64.gif)
+<br>
 
-Here are some ideas to get you started:
+### I am Kinjal Momaya. 
+A Full Stack Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Checkout [My Work](https://kini99.github.io/)
+
+You can contact me on
+<br>
+-> [LinkedIn](https://www.linkedin.com/in/kinjal-momaya-73b124126)
+<br>
+-> [Email](kinjalmomaya99@gmail.com)
+
+
+
