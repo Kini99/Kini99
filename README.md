@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kini99" alt="kini99" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, MongoDB and Express**
+- 🌱 I’m a MERN Stack Developer and  currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://kini99.github.io/](https://kini99.github.io/)
+  
+- 👨‍💻 Checkout my latest Freelance Project at **https://www.drijewels.com/**
 
-- 📫 How to reach me **kinjalmomaya99@gmail.com**
+- 📫 You can reacg me at **kinjalmomaya99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Iv46uAZkxIfhftVBNBiJrc-GbB3d0F2C/view?usp=share_link](https://drive.google.com/file/d/1Iv46uAZkxIfhftVBNBiJrc-GbB3d0F2C/view?usp=share_link)
 
