@@ -11,7 +11,7 @@
   
 - 👨‍💻 Checkout my latest Freelance Project at **https://www.drijewels.com/**
 
-- 📫 You can reacg me at **kinjalmomaya99@gmail.com**
+- 📫 You can reach me at **kinjalmomaya99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Iv46uAZkxIfhftVBNBiJrc-GbB3d0F2C/view?usp=share_link](https://drive.google.com/file/d/1Iv46uAZkxIfhftVBNBiJrc-GbB3d0F2C/view?usp=share_link)
 
