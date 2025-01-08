@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kini99" alt="kini99" /></a> </p>
 
-- 🌱 I’m a MERN Stack Developer and  currently learning **Vue.js**
+- 🌱 I’m a MERN Stack and React Native Developer
 
 - 👨‍💻 All of my projects are available at [https://kini99.github.io/](https://kini99.github.io/)
   
@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **kinjalmomaya99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Iv46uAZkxIfhftVBNBiJrc-GbB3d0F2C/view?usp=share_link](https://drive.google.com/file/d/1Iv46uAZkxIfhftVBNBiJrc-GbB3d0F2C/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12gX-ZogqQlPiFpqgnK5mRVtjErLz0tIp/view?usp=drive_link](https://drive.google.com/file/d/12gX-ZogqQlPiFpqgnK5mRVtjErLz0tIp/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
